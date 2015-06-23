@@ -3,7 +3,7 @@
 
 然而Mlib只是一个算法库，对于一个数据分析系统来说，仅有一个算法库是远远不够的。一个数据分析系统是一个完整的数据生态链，由很多组件组成，比如数据收集、数据存储、数据分析、结果输出、前端应用等。而对于一个用于分析处理大规模数据的学习系统来说，还必须保证系统具有易扩展性和容错能力。此外，如果可能的话，还应该能够提供批处理和流式处理两种方式。
 
-![](https://github.com/yyzdtc2009/parallel-computing-docs/resource/images/machine-learning-system.png)
+![](https://github.com/yyzdtc2009/parallel-computing-docs/blob/master/resource/images/machine-learning-system.png)
 
 上图展示了一个最简单机器学习流水线示意图，下面逐个来对此进行说明。
 
